@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/web_project_around_react/static/css/main.a522bc72.css",
+    "main.js": "/web_project_around_react/static/js/main.7ed54598.js",
+    "static/js/453.8d428687.chunk.js": "/web_project_around_react/static/js/453.8d428687.chunk.js",
+    "static/media/Inter-Black.woff2": "/web_project_around_react/static/media/Inter-Black.9ed71fbc8206e8069042.woff2",
+    "static/media/Inter-Regular.woff2": "/web_project_around_react/static/media/Inter-Regular.76224c7fa303861462e7.woff2",
+    "index.html": "/web_project_around_react/index.html",
+    "static/media/heartSignDesactive.svg": "/web_project_around_react/static/media/heartSignDesactive.1c9aa8bd7665548f48c3.svg",
+    "static/media/heartSignActive.svg": "/web_project_around_react/static/media/heartSignActive.f8482d28867cec189b08.svg",
+    "main.a522bc72.css.map": "/web_project_around_react/static/css/main.a522bc72.css.map",
+    "main.7ed54598.js.map": "/web_project_around_react/static/js/main.7ed54598.js.map",
+    "453.8d428687.chunk.js.map": "/web_project_around_react/static/js/453.8d428687.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a522bc72.css",
+    "static/js/main.7ed54598.js"
+  ]
+}
