@@ -90,6 +90,15 @@ class Api {
       });
   }
 
+  /* Cambia el estado de los likes de la tarjeta */
+  changeLikeCardStatus(cardId, isLiked) {
+    if (isLiked) {
+      return this.deleteLike(cardId);
+    } else {
+      return this.addLike(cardId);
+    }
+  }
+
   /* Agrega likes */
   addLike(cardId) {
     return fetch(`${this.baseUrl}/cards/likes/${cardId}`, {
@@ -124,7 +133,7 @@ class Api {
       method: "PATCH",
       headers: this.headers,
       body: JSON.stringify({
-        avatar: avatar.url,
+        avatar: avatar,
       }),
     })
       .then((res) => {

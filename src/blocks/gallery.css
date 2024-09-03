@@ -32,6 +32,11 @@
   cursor: pointer;
 }
 
+.gallery__trash-hidden {
+  /*visibility: hidden;*/
+  display: none;
+}
+
 .gallery__trash:hover {
   opacity: 0.5;
 }
@@ -69,7 +74,7 @@
   justify-content: center;
 }
 
-.gallery__like {
+.gallery__like_desactive {
   width: 21px;
   cursor: pointer;
   background: url(../images/heartSignDesactive.svg) center no-repeat;
@@ -78,14 +83,23 @@
   height: 21px;
 }
 
-.gallery__like:hover {
+.gallery__like_active {
+  width: 21px;
+  cursor: pointer;
+  background: url(../images/heartSignActive.svg) center no-repeat;
+  background-size: 100%;
+  border: none;
+  height: 21px;
+}
+
+.gallery__like_desactive:hover {
   opacity: 0.5;
 }
 
-.gallery__like_active {
+/*.gallery__like_active {
   opacity: 1;
   background: url(../images/heartSignActive.svg) center no-repeat;
-}
+}*/
 
 .gallery__like-number {
   font-size: 15px;
