@@ -26,10 +26,10 @@ html5, css, javascript, react, babel, eslint
 Este proyecto final tiene como resultado el mostrar una página web con las caracteristicas antes descritas y asi el usuario pueda usarla para mostrar sus imagenes favoritas con un nickname, descripción.
 
 # Instrucciones para reproducir proyecto
-Clonar repositorio.
-Abrir en un IDE como Visual code.
-para descargar dependencias: npm install
-para ejecutar: npm dev / npm run
-para construir carpeta dist: npm run build
+1. Clonar repositorio.
+2. Abrir en un IDE como Visual code.
+3. para descargar dependencias: npm install
+4. para ejecutar: npm dev / npm run
+5. para construir carpeta dist: npm run build
 
 
