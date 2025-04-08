@@ -1,3 +1,14 @@
+# Proyecto Around (with React)
+
+Proyecto tiene como objetivo mostrar un set de cartas propias, modificación de perfil y descripción y agregar y/o quitar cartas.
+
+# Motivación
+
+Actualmente cada usuario busca mostrar un poco mas de si mism@ através de redes sociales por lo que se genera este proyecto orientado a mostrar
+hobbies, lugares que gustan al usuario, bandas de rock, etc.. con la finalidad de que otros usuarios den like a sus fotos.
+
+#
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
