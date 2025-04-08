@@ -1,81 +1,35 @@
 # Proyecto Around (with React)
 
-Proyecto tiene como objetivo mostrar un set de cartas propias, modificación de perfil y descripción y agregar y/o quitar cartas.
+Es un proyecto para poder visualizar las fotos de cualquier hobbie, banda, lugares que tengas para ti, es similar a un instagram. Se puede editar el perfil, agregar y darle me gusta a las fotos.
 
 # Motivación
 
 Actualmente cada usuario busca mostrar un poco mas de si mism@ através de redes sociales por lo que se genera este proyecto orientado a mostrar
 hobbies, lugares que gustan al usuario, bandas de rock, etc.. con la finalidad de que otros usuarios den like a sus fotos.
 
-#
+# Caracteristicas del proyecto
 
-# Getting Started with Create React App
+Contiene un set de cartas con imagenes del usuario. Perfil editable. Nombre y Descripción general del usuario editables. Agregar cartas. Borrar cartas. Contador de likes.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Tecnologías usadas en este proyecto
+html5, css, javascript, react, babel, eslint
 
-In the project directory, you can run:
+# Proceso del proyecto
+1. Análisis del requerimiento.
+2. Diseño de maquetación.
+3. Implementación de código.
+4. Pruebas.
+5. Vobo usuario.
 
-### `npm start`
+# Resultados
+Este proyecto final tiene como resultado el mostrar una página web con las caracteristicas antes descritas y asi el usuario pueda usarla para mostrar sus imagenes favoritas con un nickname, descripción.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Instrucciones para reproducir proyecto
+Clonar repositorio.
+Abrir en un IDE como Visual code.
+para descargar dependencias: npm install
+para ejecutar: npm dev / npm run
+para construir carpeta dist: npm run build
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
